@@ -13,7 +13,10 @@ print("There once was a man named " + character_name + ",")
 print("He was " + character_age + " ")
 print("He really like the name " + character_name + ",")
 print("But he did not like being "+ character_age + ".")
-So here, basicly this code is including Variables. The Variabels are "charcter_name" and "charcter_age". Essintelly what thesse varibals are doing is making it easier to change sertian text. Take this for an example lets say we wanted to change the charcter to finn from adventure time we would go to the variable "charcter_name = ("Jake the Dog") And change it to "character_name = ("Finn") Same goes for age you can change that to "character_age = 17 
+So here, basicly this code is including Variables. The Variabels are "charcter_name" and "charcter_age". 
+Essintelly what thesse varibals are doing is making it easier to change sertian text. 
+Take this for an example lets say we wanted to change the charcter to finn from adventure time we would go to the variable "charcter_name = ("Jake the Dog")
+And change it to "character_name = ("Finn") Same goes for age you can change that to "character_age = 17 
 These are some basics. This is my first turtorail please do not be mad if there is any errors. Thank you.
 
 Reminder (Delete the commentery in the code)
